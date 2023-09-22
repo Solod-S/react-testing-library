@@ -1,0 +1,301 @@
+{
+  "payload": {
+    "allShortcutsEnabled": false,
+    "fileTree": {
+      "": {
+        "items": [
+          {
+            "name": "public",
+            "path": "public",
+            "contentType": "directory"
+          },
+          {
+            "name": "src",
+            "path": "src",
+            "contentType": "directory"
+          },
+          {
+            "name": ".editorconfig",
+            "path": ".editorconfig",
+            "contentType": "file"
+          },
+          {
+            "name": ".gitignore",
+            "path": ".gitignore",
+            "contentType": "file"
+          },
+          {
+            "name": "README.md",
+            "path": "README.md",
+            "contentType": "file"
+          },
+          {
+            "name": "package.json",
+            "path": "package.json",
+            "contentType": "file"
+          },
+          {
+            "name": "yarn.lock",
+            "path": "yarn.lock",
+            "contentType": "file"
+          }
+        ],
+        "totalCount": 7
+      }
+    },
+    "fileTreeProcessingTime": 4.441859,
+    "foldersToFetch": [],
+    "reducedMotionEnabled": null,
+    "repo": {
+      "id": 279878762,
+      "defaultBranch": "master",
+      "name": "react-testing-library",
+      "ownerLogin": "YauhenKavalchuk",
+      "currentUserCanPush": false,
+      "isFork": false,
+      "isEmpty": false,
+      "createdAt": "2020-07-15T13:40:32.000Z",
+      "ownerAvatar": "https://avatars.githubusercontent.com/u/13219936?v=4",
+      "public": true,
+      "private": false,
+      "isOrgOwned": false
+    },
+    "symbolsExpanded": false,
+    "treeExpanded": true,
+    "refInfo": {
+      "name": "lesson_07",
+      "listCacheKey": "v0:1672965137.658752",
+      "canEdit": false,
+      "refType": "branch",
+      "currentOid": "74747e0f2e8dfbfaec820c7c7054de7e8eb8f0e5"
+    },
+    "path": ".editorconfig",
+    "currentUser": null,
+    "blob": {
+      "rawLines": [
+        "root = true",
+        "",
+        "[*]",
+        "end_of_line = lf",
+        "insert_final_newline = true",
+        "",
+        "[*.{js,jsx,html,scss}]",
+        "charset = utf-8",
+        "indent_style = space",
+        "indent_size = 2",
+        "trim_trailing_whitespace = true"
+      ],
+      "stylingDirectives": [
+        [
+          {
+            "start": 0,
+            "end": 4,
+            "cssClass": "pl-k"
+          },
+          {
+            "start": 7,
+            "end": 11,
+            "cssClass": "pl-c1"
+          }
+        ],
+        [],
+        [
+          {
+            "start": 1,
+            "end": 2,
+            "cssClass": "pl-en"
+          },
+          {
+            "start": 1,
+            "end": 2,
+            "cssClass": "pl-k"
+          }
+        ],
+        [
+          {
+            "start": 0,
+            "end": 11,
+            "cssClass": "pl-k"
+          },
+          {
+            "start": 14,
+            "end": 16,
+            "cssClass": "pl-c1"
+          }
+        ],
+        [
+          {
+            "start": 0,
+            "end": 20,
+            "cssClass": "pl-k"
+          },
+          {
+            "start": 23,
+            "end": 27,
+            "cssClass": "pl-c1"
+          }
+        ],
+        [],
+        [
+          {
+            "start": 1,
+            "end": 21,
+            "cssClass": "pl-en"
+          },
+          {
+            "start": 1,
+            "end": 2,
+            "cssClass": "pl-k"
+          }
+        ],
+        [
+          {
+            "start": 0,
+            "end": 7,
+            "cssClass": "pl-k"
+          },
+          {
+            "start": 10,
+            "end": 15,
+            "cssClass": "pl-c1"
+          }
+        ],
+        [
+          {
+            "start": 0,
+            "end": 12,
+            "cssClass": "pl-k"
+          },
+          {
+            "start": 15,
+            "end": 20,
+            "cssClass": "pl-c1"
+          }
+        ],
+        [
+          {
+            "start": 0,
+            "end": 11,
+            "cssClass": "pl-k"
+          },
+          {
+            "start": 14,
+            "end": 15,
+            "cssClass": "pl-c1"
+          }
+        ],
+        [
+          {
+            "start": 0,
+            "end": 24,
+            "cssClass": "pl-k"
+          },
+          {
+            "start": 27,
+            "end": 31,
+            "cssClass": "pl-c1"
+          }
+        ]
+      ],
+      "csv": null,
+      "csvError": null,
+      "dependabotInfo": {
+        "showConfigurationBanner": false,
+        "configFilePath": null,
+        "networkDependabotPath": "/YauhenKavalchuk/react-testing-library/network/updates",
+        "dismissConfigurationNoticePath": "/settings/dismiss-notice/dependabot_configuration_notice",
+        "configurationNoticeDismissed": null,
+        "repoAlertsPath": "/YauhenKavalchuk/react-testing-library/security/dependabot",
+        "repoSecurityAndAnalysisPath": "/YauhenKavalchuk/react-testing-library/settings/security_analysis",
+        "repoOwnerIsOrg": false,
+        "currentUserCanAdminRepo": false
+      },
+      "displayName": ".editorconfig",
+      "displayUrl": "https://github.com/YauhenKavalchuk/react-testing-library/blob/lesson_07/.editorconfig?raw=true",
+      "headerInfo": {
+        "blobSize": "170 Bytes",
+        "deleteInfo": {
+          "deleteTooltip": "You must be signed in to make or propose changes"
+        },
+        "editInfo": {
+          "editTooltip": "You must be signed in to make or propose changes"
+        },
+        "ghDesktopPath": "https://desktop.github.com",
+        "gitLfsPath": null,
+        "onBranch": true,
+        "shortPath": "8ce5b31",
+        "siteNavLoginPath": "/login?return_to=https%3A%2F%2Fgithub.com%2FYauhenKavalchuk%2Freact-testing-library%2Fblob%2Flesson_07%2F.editorconfig",
+        "isCSV": false,
+        "isRichtext": false,
+        "toc": null,
+        "lineInfo": {
+          "truncatedLoc": "11",
+          "truncatedSloc": "9"
+        },
+        "mode": "file"
+      },
+      "image": false,
+      "isCodeownersFile": null,
+      "isPlain": false,
+      "isValidLegacyIssueTemplate": false,
+      "issueTemplateHelpUrl": "https://docs.github.com/articles/about-issue-and-pull-request-templates",
+      "issueTemplate": null,
+      "discussionTemplate": null,
+      "language": "EditorConfig",
+      "languageID": 96139566,
+      "large": false,
+      "loggedIn": false,
+      "newDiscussionPath": "/YauhenKavalchuk/react-testing-library/discussions/new",
+      "newIssuePath": "/YauhenKavalchuk/react-testing-library/issues/new",
+      "planSupportInfo": {
+        "repoIsFork": null,
+        "repoOwnedByCurrentUser": null,
+        "requestFullPath": "/YauhenKavalchuk/react-testing-library/blob/lesson_07/.editorconfig",
+        "showFreeOrgGatedFeatureMessage": null,
+        "showPlanSupportBanner": null,
+        "upgradeDataAttributes": null,
+        "upgradePath": null
+      },
+      "publishBannersInfo": {
+        "dismissActionNoticePath": "/settings/dismiss-notice/publish_action_from_dockerfile",
+        "dismissStackNoticePath": "/settings/dismiss-notice/publish_stack_from_file",
+        "releasePath": "/YauhenKavalchuk/react-testing-library/releases/new?marketplace=true",
+        "showPublishActionBanner": false,
+        "showPublishStackBanner": false
+      },
+      "renderImageOrRaw": false,
+      "richText": null,
+      "renderedFileInfo": null,
+      "shortPath": null,
+      "tabSize": 8,
+      "topBannersInfo": {
+        "overridingGlobalFundingFile": false,
+        "globalPreferredFundingPath": null,
+        "repoOwner": "YauhenKavalchuk",
+        "repoName": "react-testing-library",
+        "showInvalidCitationWarning": false,
+        "citationHelpUrl": "https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files",
+        "showDependabotConfigurationBanner": false,
+        "actionsOnboardingTip": null
+      },
+      "truncated": false,
+      "viewable": true,
+      "workflowRedirectUrl": null,
+      "symbols": {
+        "timedOut": false,
+        "notAnalyzed": true,
+        "symbols": []
+      }
+    },
+    "copilotInfo": null,
+    "csrf_tokens": {
+      "/YauhenKavalchuk/react-testing-library/branches": {
+        "post": "RXRniSfi_LMqtzlkl6eIE_wJJP2frzc3WDhg19i2ddq4pFjcKYgfvHXzhjG1FK6BcIxNrElqtwbM7K6Adqhdeg"
+      },
+      "/repos/preferences": {
+        "post": "3y4eeRr5drkEU-w7ZmQIu8-tadKf4GdibliJhMYH2tYVcXbJbhb_c32r__ItB7fHg4pPdvyirOE0xvGjhiTVIg"
+      }
+    }
+  },
+  "title": "react-testing-library/.editorconfig at lesson_07 · YauhenKavalchuk/react-testing-library"
+}
