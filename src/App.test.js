@@ -3,27 +3,27 @@ import App from "./App";
 
 // очень часто наша задачей будет найти поле ввода и проверить результат
 
-// test("renders learn react link", () => {
-//   render(<App />);
-//   const linkElement = screen.getByText(/Search:/i);
+test("renders learn react link", () => {
+  render(<App />);
+  const linkElement = screen.getByText(/Search:/i);
+  expect(linkElement).toBeInTheDocument();
+});
+// test("renders learn react link 2", () => {
+//   const { getByText } = render(<App />);
+//   const linkElement = getByText(/Search:/i);
 //   expect(linkElement).toBeInTheDocument();
 // });
-// // test("renders learn react link 2", () => {
-// //   const { getByText } = render(<App />);
-// //   const linkElement = getByText(/Search:/i);
-// //   expect(linkElement).toBeInTheDocument();
-// // });
-// test("screen", () => {
-//   render(<App />);
-//   screen.debug();
-//   // рендер всей разметки в консоли
-// });
+test("screen", () => {
+  render(<App />);
+  screen.debug();
+  // рендер всей разметки в консоли
+});
 
-// test("screen 2", () => {
-//   const { asFragment } = render(<App />);
-//   expect(asFragment(<App />)).toMatchSnapshot();
-//   // снимок
-// });
+test("screen 2", () => {
+  const { asFragment } = render(<App />);
+  expect(asFragment(<App />)).toMatchSnapshot();
+  // снимок
+});
 
 describe("App element sect basics", () => {
   it("render App component ", () => {

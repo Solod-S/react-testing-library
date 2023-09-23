@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`screen 2 1`] = `
+<DocumentFragment>
+  <div>
+    <img
+      alt="search image"
+      class="image"
+      src=""
+    />
+    <div>
+      <label
+        for="search"
+      >
+        Search:
+      </label>
+      <input
+        id="search"
+        placeholder="search text..."
+        required=""
+        type="text"
+        value=""
+      />
+    </div>
+    <p>
+      Searches for ...
+    </p>
+  </div>
+</DocumentFragment>
+`;

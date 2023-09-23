@@ -6,6 +6,8 @@ At this repository, we will look at testing a React application and React compon
 
 ---
 
+![ Demo](/img/image.jpeg)
+
 ### Resources and tools used:
 
 - [Visual Studio Code](https://code.visualstudio.com)
